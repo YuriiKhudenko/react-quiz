@@ -1,0 +1,10 @@
+.Layout {
+    height: 100vh;
+    display: flex;
+    flex-flow: column;
+}
+.Layout main {
+    display: flex;
+    flex-flow: column;
+    flex-grow: 1;
+}
